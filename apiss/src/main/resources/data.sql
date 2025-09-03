@@ -1,0 +1,1 @@
+INSERT IGNORE INTO roles (id, nombre) VALUES (1,'BUYER'),(2,'SELLER'),(3,'ADMIN');
